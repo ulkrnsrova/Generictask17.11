@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class AppDbContext<T>
+    internal class AppDbContext<T>where T : BaseEntity
     {
         public T[] books = { };
        
