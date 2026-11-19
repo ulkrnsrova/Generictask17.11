@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maga\\Desktop\\code task\\generic\\Generictask17.11\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\maga\\desktop\\code task\\generic\\generictask17.11\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\maga\\desktop\\code task\\generic\\generictask17.11\\consoleapp1\\consoleapp1\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\maga\\desktop\\code task\\generic\\generictask17.11\\consoleapp1\\consoleapp1\\repostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\repostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\maga\\desktop\\code task\\generic\\generictask17.11\\consoleapp1\\consoleapp1\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\maga\\desktop\\code task\\generic\\generictask17.11\\consoleapp1\\consoleapp1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Maga\\Desktop\\code task\\generic\\Generictask17.11\\ConsoleApp1\\ConsoleApp1\\Book.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Book.cs",
+              "ToolTip": "C:\\Users\\Maga\\Desktop\\code task\\generic\\Generictask17.11\\ConsoleApp1\\ConsoleApp1\\Book.cs",
+              "RelativeToolTip": "ConsoleApp1\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T08:31:25.826Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Maga\\Desktop\\code task\\generic\\Generictask17.11\\ConsoleApp1\\ConsoleApp1\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Maga\\Desktop\\code task\\generic\\Generictask17.11\\ConsoleApp1\\ConsoleApp1\\BaseEntity.cs",
+              "RelativeToolTip": "ConsoleApp1\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T08:30:29.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repostory.cs",
+              "DocumentMoniker": "C:\\Users\\Maga\\Desktop\\code task\\generic\\Generictask17.11\\ConsoleApp1\\ConsoleApp1\\Repostory.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Repostory.cs",
+              "ToolTip": "C:\\Users\\Maga\\Desktop\\code task\\generic\\Generictask17.11\\ConsoleApp1\\ConsoleApp1\\Repostory.cs",
+              "RelativeToolTip": "ConsoleApp1\\Repostory.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwDMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T08:44:23.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Maga\\Desktop\\code task\\generic\\Generictask17.11\\ConsoleApp1\\ConsoleApp1\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Maga\\Desktop\\code task\\generic\\Generictask17.11\\ConsoleApp1\\ConsoleApp1\\AppDbContext.cs",
+              "RelativeToolTip": "ConsoleApp1\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T08:36:12.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maga\\Desktop\\code task\\generic\\Generictask17.11\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Maga\\Desktop\\code task\\generic\\Generictask17.11\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T08:25:22.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
